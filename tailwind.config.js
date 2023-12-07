@@ -10,6 +10,9 @@ module.exports = {
         'btn-bg' : '#FF52C1',
         'footer-bg' : '#00252E',
     },
+    backgroundImage: {
+      'hero-pattern1m': "url('./images/Path 3.png')",
+    },
     },
   },
   plugins: [],
