@@ -9,9 +9,12 @@ module.exports = {
         'header-bg': '#EDFBFF',
         'btn-bg' : '#FF52C1',
         'footer-bg' : '#00252E',
+        'btn-bg-effect' : '#FF9ADB',
+        'btn-text-effect' : '#808E9A',
     },
     backgroundImage: {
-      'hero-pattern1m': "url('./images/Path 3.png')",
+      'hero-patternm': "url('./images/Path 3.png')",
+      'hero-patternd': "url('./images/Path 3Desktop.png')",
     },
     },
   },
