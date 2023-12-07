@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LandingPage-Tailwindcss/static/css/main.bb40a3b9.css",
+    "main.js": "/LandingPage-Tailwindcss/static/js/main.3600ccff.js",
+    "static/js/787.3568773d.chunk.js": "/LandingPage-Tailwindcss/static/js/787.3568773d.chunk.js",
+    "static/media/Path 3Desktop.png": "/LandingPage-Tailwindcss/static/media/Path 3Desktop.228465abe2be7a89e68c.png",
+    "static/media/Path 3.png": "/LandingPage-Tailwindcss/static/media/Path 3.9899b5f348ee9e1da337.png",
+    "static/media/illustration-flowing-conversation.svg": "/LandingPage-Tailwindcss/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/LandingPage-Tailwindcss/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/Path 2.png": "/LandingPage-Tailwindcss/static/media/Path 2.05144e76dfca0047cc81.png",
+    "static/media/illustration-grow-together.svg": "/LandingPage-Tailwindcss/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/logo.svg": "/LandingPage-Tailwindcss/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/illustration-mockups.svg": "/LandingPage-Tailwindcss/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/square-instagram.svg": "/LandingPage-Tailwindcss/static/media/square-instagram.4f5d75b8933de3aa3fe05a0708766b0e.svg",
+    "static/media/square-twitter.svg": "/LandingPage-Tailwindcss/static/media/square-twitter.a22c8a7ef1500f1c61d789f6ba7ed796.svg",
+    "index.html": "/LandingPage-Tailwindcss/index.html",
+    "static/media/facebook.svg": "/LandingPage-Tailwindcss/static/media/facebook.8efa4f5d4b7bb3dd22f5607a10586880.svg",
+    "static/media/icon-phone.svg": "/LandingPage-Tailwindcss/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/LandingPage-Tailwindcss/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/LandingPage-Tailwindcss/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.bb40a3b9.css.map": "/LandingPage-Tailwindcss/static/css/main.bb40a3b9.css.map",
+    "main.3600ccff.js.map": "/LandingPage-Tailwindcss/static/js/main.3600ccff.js.map",
+    "787.3568773d.chunk.js.map": "/LandingPage-Tailwindcss/static/js/787.3568773d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb40a3b9.css",
+    "static/js/main.3600ccff.js"
+  ]
+}
