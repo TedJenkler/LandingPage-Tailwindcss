@@ -34,7 +34,7 @@ function App() {
       </header>
     <main className='min-h-screen w-screen m-0 p-0'>
       <Items img={grow} h1="Grow Together" p="Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form. "/>
-      <Items img={conversations} h1="Flowing Conversations" p="You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow."/>
+      <Items id="middle" img={conversations} h1="Flowing Conversations" p="You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow."/>
       <Items img={users} h1="Your Users" p="It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately."/>
     </main>
     <footer className='bg-footer-bg text-white relative mt-60 lg:flex lg:items-center lg:justify-center'>
@@ -49,22 +49,22 @@ function App() {
         <p className='flex items-center text-sm ml-4 mb-10'><i><img className='mr-4 h-6' src={email} alt='email' /></i>example@fylo.com</p>
       </div>
       <ul className='lg:mt-48 lg:ml-20'>
-        <li className='text-sm ml-4 mb-4'>About Us</li>
-        <li className='text-sm ml-4 mb-4'>What We Do</li>
-        <li className='text-sm ml-4 mb-4'>FAQ</li>
+        <li className='text-sm ml-4 mb-4 whitespace-nowrap'>About Us</li>
+        <li className='text-sm ml-4 mb-4 whitespace-nowrap'>What We Do</li>
+        <li className='text-sm ml-4 mb-4 whitespace-nowrap'>FAQ</li>
       </ul>
       <ul className='lg:mt-48 lg:ml-20'>
-        <li className='text-sm ml-4 mb-4'>Career</li>
-        <li className='text-sm ml-4 mb-4'>Blog</li>
-        <li className='text-sm ml-4 mb-4'>Contact Us</li>
+        <li className='text-sm ml-4 mb-4 whitespace-nowrap'>Career</li>
+        <li className='text-sm ml-4 mb-4 whitespace-nowrap'>Blog</li>
+        <li className='text-sm ml-4 mb-4 whitespace-nowrap'>Contact Us</li>
       </ul>
       <div className='lg:mt-48 lg:ml-40 lg:mr-20'>
       <div className='flex justify-center gap-3 mb-6 lg:mb-24 lg:justify-start'>
-        <i className='h-8 w-8 bg-footer-bg'><img className='bg-white rounded-full h-8 w-8' src={facebook} alt='facebook'/></i>
-        <i className='h-8 w-8 bg-footer-bg'><Twitter className='stroke-white rounded-full h-8 w-8' src={twitter} alt='twitter'/></i>
-        <i className='h-8 w-8 bg-footer-bg'><img className='bg-white rounded-full h-8 w-8' src={instagram} alt='instagram'/></i>
+        <i className='h-8 w-8 bg-footer-bg'><img className='bg-white rounded-full h-8 w-8 hover:bg-btn-bg p-1' src={facebook} alt='facebook'/></i>
+        <i className='h-8 w-8 bg-footer-bg'><img className='bg-white rounded-full h-8 w-8 hover:bg-btn-bg p-1' src={twitter} alt='twitter'></img></i>
+        <i className='h-8 w-8 bg-footer-bg'><img className='bg-white rounded-full h-8 w-8 hover:bg-btn-bg p-1' src={instagram} alt='instagram'/></i>
       </div>
-      <p className='text-center text-xs pb-12'>© Copyright 2018 Huddle. All rights reserved.</p>
+      <p className='text-center text-xs pb-12 whitespace-nowrap'>© Copyright 2018 Huddle. All rights reserved.</p>
       </div>
     </footer>
     </>);
