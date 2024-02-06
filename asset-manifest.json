@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LandingPage-Tailwindcss/static/css/main.bb40a3b9.css",
+    "main.css": "/LandingPage-Tailwindcss/static/css/main.5d8e74ff.css",
     "main.js": "/LandingPage-Tailwindcss/static/js/main.3600ccff.js",
     "static/js/787.3568773d.chunk.js": "/LandingPage-Tailwindcss/static/js/787.3568773d.chunk.js",
     "static/media/Path 3Desktop.png": "/LandingPage-Tailwindcss/static/media/Path 3Desktop.228465abe2be7a89e68c.png",
@@ -18,12 +18,12 @@
     "static/media/icon-phone.svg": "/LandingPage-Tailwindcss/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
     "static/media/icon-location.svg": "/LandingPage-Tailwindcss/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
     "static/media/icon-email.svg": "/LandingPage-Tailwindcss/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
-    "main.bb40a3b9.css.map": "/LandingPage-Tailwindcss/static/css/main.bb40a3b9.css.map",
+    "main.5d8e74ff.css.map": "/LandingPage-Tailwindcss/static/css/main.5d8e74ff.css.map",
     "main.3600ccff.js.map": "/LandingPage-Tailwindcss/static/js/main.3600ccff.js.map",
     "787.3568773d.chunk.js.map": "/LandingPage-Tailwindcss/static/js/787.3568773d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb40a3b9.css",
+    "static/css/main.5d8e74ff.css",
     "static/js/main.3600ccff.js"
   ]
 }
